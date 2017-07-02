@@ -1,0 +1,6 @@
+D:\教学资料\TeachingAsset\Choice Of Life\Level1\bin\Debug\Level1.exe.config
+D:\教学资料\TeachingAsset\Choice Of Life\Level1\bin\Debug\Level1.exe
+D:\教学资料\TeachingAsset\Choice Of Life\Level1\bin\Debug\Level1.pdb
+D:\教学资料\TeachingAsset\Choice Of Life\Level1\obj\Debug\Level1.csprojResolveAssemblyReference.cache
+D:\教学资料\TeachingAsset\Choice Of Life\Level1\obj\Debug\Level1.exe
+D:\教学资料\TeachingAsset\Choice Of Life\Level1\obj\Debug\Level1.pdb
